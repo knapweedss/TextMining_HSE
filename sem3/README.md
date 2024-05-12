@@ -4,4 +4,4 @@
 #### [Colab](https://colab.research.google.com/drive/1Gu4tR9tnYD2uwGefwLRnh_Mx1GU2oYG4?usp=sharing)
 
 ### Дополнительные материалы
-- [Текстовые данные и способы их обработки](https://education.yandex.ru/handbook/data-analysis/article/tekstovye-dannye-i-sposoby-ih-obrabotki)
+- [Статья на хабре про распознавание адресов](https://habr.com/ru/articles/667442/)
