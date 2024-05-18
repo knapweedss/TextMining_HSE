@@ -7,6 +7,7 @@
 - [Предобработка текста](https://github.com/knapweedss/TextMining_HSE/tree/main/sem2)
 - [Морфологический и синтаксический анализ](https://github.com/knapweedss/TextMining_HSE/tree/main/sem3)
 - [Статистические инструменты анализа данных](https://github.com/knapweedss/TextMining_HSE/tree/main/sem4)
+- [Визуализация данных](https://github.com/knapweedss/TextMining_HSE/tree/main/sem5)
 
 ## Домашние задания
 TBD
