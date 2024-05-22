@@ -8,6 +8,7 @@
 - [Морфологический и синтаксический анализ](https://github.com/knapweedss/TextMining_HSE/tree/main/sem3)
 - [Статистические инструменты анализа данных](https://github.com/knapweedss/TextMining_HSE/tree/main/sem4)
 - [Визуализация данных](https://github.com/knapweedss/TextMining_HSE/tree/main/sem5)
+- [Краулеры и API]
 
 ## Домашние задания
 TBD
