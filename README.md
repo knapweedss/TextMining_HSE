@@ -10,6 +10,7 @@
 - [Визуализация данных](https://github.com/knapweedss/TextMining_HSE/tree/main/sem5)
 - [Краулеры и API](https://github.com/knapweedss/TextMining_HSE/tree/main/sem6-7)
 - [Введение в машинное обучение](https://github.com/knapweedss/TextMining_HSE/tree/main/sem8)
+- [Эмбеддинги и рекап МЛ](https://github.com/knapweedss/TextMining_HSE/tree/main/sem9)
 
 ## Домашние задания
 TBD
