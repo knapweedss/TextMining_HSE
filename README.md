@@ -9,6 +9,7 @@
 - [Статистические инструменты анализа данных](https://github.com/knapweedss/TextMining_HSE/tree/main/sem4)
 - [Визуализация данных](https://github.com/knapweedss/TextMining_HSE/tree/main/sem5)
 - [Краулеры и API](https://github.com/knapweedss/TextMining_HSE/tree/main/sem6-7)
+- [Введение в машинное обучение](https://github.com/knapweedss/TextMining_HSE/tree/main/sem8)
 
 ## Домашние задания
 TBD
