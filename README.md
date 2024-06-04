@@ -13,4 +13,4 @@
 - [Эмбеддинги и рекап МЛ](https://github.com/knapweedss/TextMining_HSE/tree/main/sem9)
 
 ## Домашние задания
-TBD
+[Домашнее задание 2](https://github.com/knapweedss/TextMining_HSE/tree/main/HW2)
