@@ -16,3 +16,4 @@
 [Домашнее задание 2](https://github.com/knapweedss/TextMining_HSE/tree/main/HW2)
 
 https://docs.google.com/spreadsheets/d/12zXveMLAhh76mOm_9eg0t1u6A5i_TMMPdGNW2TRg1Ao/edit?usp=sharing
+2104 https://docs.google.com/spreadsheets/d/10bMpmNuPWSvA9d6gv5_inD0nB5aiIfO7Ua0zuigNvZI/edit
