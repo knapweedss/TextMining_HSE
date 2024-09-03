@@ -8,3 +8,4 @@
 
 - [Функции](https://pythonworld.ru/tipy-dannyx-v-python/vse-o-funkciyax-i-ix-argumentax.html)
 - [Типы Данных](https://realpython.com/python-data-structures/)
+- [Циклы](https://practicum.yandex.ru/blog/cikly-v-python/)
