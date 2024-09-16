@@ -9,3 +9,4 @@
 ### Дополнительные материалы
 - [Статья на хабре про распознавание адресов](https://habr.com/ru/articles/667442/)
 - [Краткий обзор NLP библиотеки SpaСy](https://habr.com/ru/articles/504680/)
+- [Подробнее про сайт Jules Verne](https://habr.com/ru/companies/contentai/articles/305970/)
