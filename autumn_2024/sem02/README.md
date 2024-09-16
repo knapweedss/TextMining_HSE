@@ -6,3 +6,4 @@
 
 ### Дополнительные материалы
 - [Текстовые данные и способы их обработки](https://education.yandex.ru/handbook/data-analysis/article/tekstovye-dannye-i-sposoby-ih-obrabotki)
+- [Основы Natural Language Processing для текста](https://habr.com/ru/companies/Voximplant/articles/446738/)
