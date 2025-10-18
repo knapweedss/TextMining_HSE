@@ -15,4 +15,4 @@
 
 [Семинар 7](https://github.com/knapweedss/TextMining_HSE/tree/main/autumn-winter-2025/%C2%A0sem07)
 
-[Семинар 8]
+[Семинар 8](https://github.com/knapweedss/TextMining_HSE/blob/main/autumn-winter-2025/sem08)
