@@ -2,3 +2,6 @@
 
 
 https://colab.research.google.com/drive/1s82sZFwNhH7Hc3Cs3ym5XZm-W0xJo_Yf?usp=sharing
+
+
+https://github.com/andriygav/MachineLearningSeminars/blob/master/sem19/main.ipynb
