@@ -18,8 +18,3 @@
 [Семинар 8](https://github.com/knapweedss/TextMining_HSE/blob/main/autumn-winter-2025/sem08)
 
 [Семинар 9](https://github.com/knapweedss/TextMining_HSE/tree/main/autumn-winter-2025/sem09)
-
-
- # Защиты проектов 
-
- https://disk.yandex.ru/i/5e8tnpsjx-Hl3w
